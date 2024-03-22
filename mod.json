@@ -6,8 +6,17 @@
 		"mac": "2.200"
 	},
 	"version": "v1.0.0",
-	"id": "dankmeme.gay-particles",
-	"name": "gay particles",
-	"developer": "dankmeme",
-	"description": ""
+	"id": "dankmeme.rainbow-particles",
+	"name": "Rainbow Particles",
+	"developers": [
+		"dankmeme",
+		"availax"
+	],
+	"description": "A mod that makes all player particles rainbow!",
+	"resources": {
+		"sprites": [
+			"resources/screenshot.png"
+		]
+	},
+	"repository": "https://github.com/dankmeme01/gay-particles"
 }

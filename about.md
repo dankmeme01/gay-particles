@@ -1,3 +1,3 @@
-# Template Mod
+# Rainbow Particles
 
-Edit about.md to change this
+A mod that makes all player particles rainbow!

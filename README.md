@@ -1,3 +1,3 @@
-# gay-particles
+# Rainbow Particles
 
-rainbow particles mod for geometry dash
+A mod that makes all player particles rainbow!
